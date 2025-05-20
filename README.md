@@ -86,3 +86,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - Thanks to the open-source community and emotion datasets
 - Deep learning frameworks: TensorFlow + Keras
+
+
+***Altan Ulaş Zöhre***
